@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Case Study</string>
+    <string name="okay">Tamam</string>
+    <string name="app_usage_info">Kişi listesini yenilemek için yukarıdan aşağıya çekiniz.\n\nDaha fazla kişi görüntülemek için aşağıya gidiniz.</string>
+    <string name="try_again">Tekrar Dene</string>
+    <string name="no_record">Kayıt bulunamadı.</string>
+    <string name="person_loading">Kişiler yükleniyor…</string>
+    <string name="retrying_error">Beklenmedik bir sorun oluştu, lüften daha sonra tekrar deneyin.</string>
+    <string name="all_people_listed">Tüm kişiler listelendi.</string>
+</resources>
